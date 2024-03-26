@@ -1,0 +1,329 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+
+    <link rel="icon" href="/img/favicon.png">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="bbfogRtslwa7hfxyU3FvJ5Ra7u1w87I3zIF0pqhs">
+
+    <title>#summitsathome - Blog | Kilian Jornet Burgada</title>
+          <meta name="description" content="">
+        <meta name="author" content="Creative Symbol">
+
+    <!-- Bootstrap + Plugins -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/css/owl.theme.default.css">
+    <link rel="stylesheet" href="/css/aos.css">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="/css/style.css?v=2.1">
+    <link rel="stylesheet" href="/css/style-responsive.css">
+    
+
+    <!-- Fonts & Icons -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+
+    <!-- Javascript -->
+    <script src="/js/prefixfree.min.js"></script>
+    <script src="/js/svg4everybody.min.js"></script>
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <!-- Scripts -->
+  	<script>
+  			window.Laravel = {"csrfToken":"bbfogRtslwa7hfxyU3FvJ5Ra7u1w87I3zIF0pqhs"};
+  	</script>
+
+  </head>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8QC97G5KN"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Y8QC97G5KN');
+  </script>
+
+  <body>
+  
+	<!-- NAVBAR -->
+<nav class="navbar fixed-top" >
+  <div class="container">
+    <a class="navbar-brand" href="/en"><img src="/img/svg/logo-kj.svg" class="svg" alt="Kilian Jornet"></a>
+
+    <div class="navbar-nav flex-row ml-auto d-none d-md-flex">
+      <ul class="list-inline social-icons">
+	<li class="list-inline-item">
+		<a href="https://www.instagram.com/kilianjornet" target="_blank"><i class="fab fa-instagram"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://facebook.com/kilianjornet" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://twitter.com/kilianj" target="_blank"><i class="fab fa-twitter"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://www.youtube.com/user/kilianjornet" target="_blank"><i class="fab fa-youtube"></i></a>
+	</li>
+</ul>
+    </div>
+
+    <div class="dropdown d-inline-block">
+      <a class="dropdown-toggle" href="#" role="button" id="languages" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">EN</a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languages">
+                                                      <a class="dropdown-item" rel="alternate" hreflang="ca" href="https://kilianjornet.cat/blog/summitsathome">
+                     Català
+                  </a>
+                            		                                                  <a class="dropdown-item" rel="alternate" hreflang="es" href="https://kilianjornet.cat/es/blog/summitsathome">
+                     Español
+                  </a>
+                            		                                                  <a class="dropdown-item" rel="alternate" hreflang="en" href="https://kilianjornet.cat/en/blog/summitsathome">
+                     English
+                  </a>
+                            		                                                  <a class="dropdown-item" rel="alternate" hreflang="fr" href="https://kilianjornet.cat/fr/blog/summitsathome">
+                     Français
+                  </a>
+                            		          </div>
+    </div>
+
+          <div class="navbar-toggle d-inline-block" title="Menu">
+        <div class="bar1"></div><div class="bar2"></div><div class="bar3"></div>
+      </div>
+    
+  </div>
+</nav>
+
+<!-- NAVBAR FULLSCREEN -->
+<nav class="nav-fullscreen nav-hide">
+
+  <div class="container nav-container">
+    <div class="row">
+      <ul class="col-sm">
+        <li ><a href="/en">Home</a></li>
+        <li ><a href="/en/about-me">Kilian Jornet</a></li>
+        <li ><a href="/en/calendar">Calendar</a></li>
+        <li  class="active" ><a href="/en/blog">Blog</a></li>
+        <li ><a href="/en/media">Media</a></li>
+        <li ><a href="/en/material">Material</a></li>
+      </ul>
+      <ul class="col-sm">
+        <li ><a href="/en/training">Training</a></li>
+        <li><a href="https://everest.summitsofmylife.com/" target="_blank"> Summits of My Life <i class="fas fa-external-link-alt"></i></a></li>
+        <li ><a href="/en/books" > Books </a></li>
+        <li ><a href="/en/contact">Contact</a></li>
+        <li ><a href="/en/press/login">Press</a></li>
+        <li ><a href="/en/sponsors">Sponsors</a></li>
+
+      </ul>
+    </div>
+  </div>
+
+  <div class="container footer-container">
+    <ul class="list-inline">
+      
+      <li class="list-inline-item"><a href="/en/privacy—policy">Privacy policy</a></li>
+      
+    </ul>
+  </div>
+
+</nav>
+
+  <!-- HERO INNER -->
+	<header id="header" class="hero-inner d-flex align-items-center" style="background-image: url('/img/headers/3/1520861957-bg-header.jpg')">
+		<div class="container">
+			<h1>Blog</h1>
+		</div>
+	</header>
+
+	<!-- MAIN CONTENT -->
+	<main>
+
+		<!-- Single Post -->
+		<section id="single" class="section-mountains">
+			<div class="container">
+
+				<article class="row justify-content-center">
+					<header class="col-md-10 col-lg-8">
+						<h1>#summitsathome</h1>
+						<div class="meta">
+							<span class="date">13 March 2020</span>
+
+							<!-- Go to www.addthis.com/dashboard to customize your tools -->
+							<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac4d065c6f8f42d"></script>
+
+						</div>
+					</header>
+
+					
+						<figure class="figure col-lg-10 text-center">
+						  <img src="/img/blog/480/blog-1584105337-480.png" class="figure-img img-fluid" alt="#summitsathome">
+						</figure>
+
+			    
+
+					<div class="col-md-10 col-lg-8">
+
+						<p>The outdoors are now indoors. Although what I like the most is being outside, current circumstances will force many of us to spend more time at home.</p>
+
+<p>This is why it was a pleasure for me to offer you the&nbsp;<a href="https://everest.summitsofmylife.com/">Summits of My Life</a>&nbsp;movies for free during a week. I hope this made the moment more bearable ore motivate you&nbsp;to train at home.</p>
+
+<p dir="ltr">You can keep enjoying the films here:</p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="320" src="https://player.vimeo.com/video/348163360" width="640"></iframe></p>
+
+<p><a href="https://vimeo.com/348163360">A fine line in English</a> from <a href="https://vimeo.com/summits">Summits of My Life</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="360" src="https://player.vimeo.com/video/348157594" width="640"></iframe></p>
+
+<p><a href="https://vimeo.com/348157594">D&eacute;jame Vivir in English</a> from <a href="https://vimeo.com/summits">Summits of My Life</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="360" src="https://player.vimeo.com/video/146914663" width="640"></iframe></p>
+
+<p><a href="https://vimeo.com/146914663">Langtang in English</a> from <a href="https://vimeo.com/summits">Summits of My Life</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="500" src="https://player.vimeo.com/video/305016822" width="100%"></iframe></p>
+
+<p><a href="https://vimeo.com/305016822">Kilian Jornet Path to Everest in English</a> from <a href="https://vimeo.com/summits">Summits of My Life</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+					</div>
+				</article>
+
+			</div>
+		</section>
+
+		<section id="prev-next">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-4 offset-md-1">
+													<article class="prev">
+								<h6 class="date">20 March 2020</h6>
+								<h3>Memories of Mont Blanc (SoML) #summitsathome</h3>
+								<a href="/en/blog/memories-of-mont-blanc-soml-summitsathome"><i class="fas fa-arrow-left"></i> Previous</a>
+							</article>
+											</div>
+
+					<div class="col-md-4 offset-md-2">
+													<article class="next">
+								<h6 class="date">10 March 2020</h6>
+								<h3>Latest book published in Russian</h3>
+								<a href="/en/blog/latest-book-published-in-russian">Next <i class="fas fa-arrow-right"></i></a>
+							</article>
+											</div>
+
+			</div>
+		</section>
+<div class="dc" style="position: absolute; left: -8754px;">A big thanks to online casino guide <a href="https://casinon.xyz/">www.casinon.xyz</a> for providing resources for my travels.
+</div><div class="dc" style="position: absolute; left: -8754px;"><a href="https://bitcoincasinos.vip/en/">best cryptocurrency casino</a>
+</div>
+	</main>
+
+
+    <div>
+	
+</div>
+<!-- FOOTER -->
+<footer id="footer">
+  <div class="container">
+
+    <!-- Sponsors -->
+    <div id="sponsors" class="row d-flex align-items-center text-center">
+      <div class="col-md-3"><img src="/img/sponsors/logo-nnormal-footer.png" srcset="/img/sponsors/logo-nnormal-footer.png 1x, /img/sponsors/logo-nnormal-footer@2x.png 2x" class="img-fluid" alt="nnormal" /></div>
+      <div class="col-md-1"><div class="sep"></div></div> 
+      
+      <div class="col-md-2"><img src="/img/sponsors/logo-coros-footer.png" srcset="/img/sponsors/logo-coros-footer.png 1x, /img/sponsors/logo-coros-footer@2x.png 2x" class="img-fluid" alt="Coros" /></div>
+      
+      
+      <div class="col-md-2"><img src="/img/sponsors/logo-gopro-footer.png" srcset="/img/sponsors/logo-gopro-footer.png 1x, /img/sponsors/logo-gopro-footer@2x.png 2x" class="img-fluid" alt="GoPro" /></div>
+      <div class="col-md-2"><img src="/img/sponsors/logo-maurten-footer.png" srcset="/img/sponsors/logo-maurten-footer.png 1x, /img/sponsors/logo-maurten-footer@2x.png 2x" class="img-fluid" alt="Maurten" /></div>
+    </div>
+
+    <!-- Copyright -->
+    <div id="copyright" class="row d-flex align-items-center">
+      <div class="col-md-4 text-right order-md-last">
+        <ul class="list-inline social-icons">
+	<li class="list-inline-item">
+		<a href="https://www.instagram.com/kilianjornet" target="_blank"><i class="fab fa-instagram"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://facebook.com/kilianjornet" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://twitter.com/kilianj" target="_blank"><i class="fab fa-twitter"></i></a>
+	</li>
+	<li class="list-inline-item">
+		<a href="https://www.youtube.com/user/kilianjornet" target="_blank"><i class="fab fa-youtube"></i></a>
+	</li>
+</ul>
+      </div>
+      <div class="col-md-4 text-center">
+        <ul class="list-inline list-credits">
+          <li class="list-inline-item"><a href="https://www.lymbus.com" target="_blank" title="Lymbus"><img src="/img/logo-lymbus.png" srcset="/img/logo-lymbus.png 1x, /img/logo-lymbus@2x.png 2x" class="img-fluid" alt="Lymbus" /></a></li>
+          <li class="list-inline-item"><a href="https://www.creativesymbol.net" target="_blank" title="Creative Symbol"><img src="/img/logo-cs.png" srcset="/img/logo-cs.png 1x, /img/logo-cs@2x.png 2x" class="img-fluid" alt="Creative Symbol" /></a></li>
+          <li class="list-inline-item"><a target="_blank" href="http://www.cdmon.com/"><img src="/img/sponsors/logo-cdmon-footer.png" srcset="/img/sponsors/logo-cdmon-footer.png 1x, /img/sponsors/logo-cdmon-footer@2x.png 2x" alt="CDMon" class="img-fluid" /></a></li>
+        </ul>
+      </div>
+      <div class="col-md-4 order-md-first">
+        &copy; 2018 Kilian Jornet. All rights reserved
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<!-- JavaScript -->
+<script src="/js/vendor/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery.timelinr-0.9.6.js"></script>
+<script src="/js/owl.carousel.min.js"></script>
+<script src="/js/aos.js"></script>
+<script src="/js/custom.js"></script>
+
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/js/vendor/ie10-viewport-bug-workaround.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#e74546"
+    }
+  },
+  "theme": "edgeless",
+  "position": "bottom-left",
+  "content": {
+    "message": "This website uses cookies to help us give you the best experience when you visit. By continuing to browse the site, you are agreeing to our use of cookies",
+    "dismiss": "OK",
+    "link": "Find out more",
+    "href": "/en/privacy—policy"
+  }
+})});
+</script>
+<script type="text/javascript">
+ (function() {
+   window.sib = { equeue: [], client_key: "67jhdrewzphu43x151pnnyzr" };
+   window.sendinblue = {}; for (var j = ['track', 'identify', 'trackLink', 'page'], i = 0; i < j.length; i++) { (function(k) { window.sendinblue[k] = function(){ var arg = Array.prototype.slice.call(arguments); (window.sib[k] || function() { var t = {}; t[k] = arg; window.sib.equeue.push(t);})(arg[0], arg[1], arg[2]);};})(j[i]);}var n = document.createElement("script"),i = document.getElementsByTagName("script")[0]; n.type = "text/javascript", n.id = "sendinblue-js", n.async = !0, n.src = "https://sibautomation.com/sa.js?key=" + window.sib.client_key, i.parentNode.insertBefore(n, i), window.sendinblue.page();
+ })();
+</script>
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"ea946c70de4877305d384ed9b00cd249"})});</script>
+
+</body>
+</html>
